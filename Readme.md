@@ -37,6 +37,8 @@ ___
 >>demo1.2
 
 >demo2
+>>demo2.1
+>>demo2.2
 
 |sr.no|name|no
 |-- |---|---|
