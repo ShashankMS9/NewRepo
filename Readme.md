@@ -1,6 +1,6 @@
 ---
 sidebar_position:1
-slug:/demo
+slug:/
 ---
 
 # Demo to the Markdown language
