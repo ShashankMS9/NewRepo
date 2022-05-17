@@ -1,9 +1,3 @@
----
-sidebar_position:1
-slug:/
-
----
-
 # Demo to the Markdown language
 
 ## heading 2
