@@ -56,6 +56,4 @@ ___
 |01|skoda|0vcba01|
 |02|ford|0vca54|
 
----
-sidebar_position:1
-slug:/demo
+
