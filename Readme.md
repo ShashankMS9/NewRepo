@@ -27,9 +27,6 @@ __this is shine__
 ---
 ___
 
-## photo 
-
-![try these](./pic/Penguins.jpg)
 
 [microsoft teams](https://teams.microsoft.com)
 
