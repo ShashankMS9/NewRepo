@@ -23,7 +23,7 @@ ___
 
 
 |content|link|
-|-------|----|
+|:-------:|:----:|
 |Table|[click here](./table.md)|
 |List|[click here](./orderlist.md)|
 |demo|[click here](./demo.md)|
